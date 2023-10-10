@@ -418,7 +418,7 @@
     </head>
 
     <body>
-            Welcome
+            Welcome ST6703
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </body>
 
